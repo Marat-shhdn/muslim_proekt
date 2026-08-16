@@ -1,2 +1,1 @@
-# muslim_proekt
-this is proekt in muslim
+# проект создан для верстки продуктовых карточек 

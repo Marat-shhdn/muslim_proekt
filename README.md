@@ -1,2 +1,2 @@
 # muslim_proekt
-this is proekt in muslim
+проект для верстек карточек 
